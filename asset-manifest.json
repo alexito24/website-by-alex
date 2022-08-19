@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website-by-alex/static/css/main.3bbe7abb.css",
+    "main.js": "/website-by-alex/static/js/main.5da784ee.js",
+    "static/media/pht1.jpg": "/website-by-alex/static/media/pht1.bef40f2ad6c6a4da3776.jpg",
+    "static/media/pht3.jpg": "/website-by-alex/static/media/pht3.c8684a6f071524d0de14.jpg",
+    "static/media/pht2.jpg": "/website-by-alex/static/media/pht2.0802b40dba4fb6519a82.jpg",
+    "static/media/wba.png": "/website-by-alex/static/media/wba.59b32fb50575eead7d0d.png",
+    "index.html": "/website-by-alex/index.html",
+    "main.3bbe7abb.css.map": "/website-by-alex/static/css/main.3bbe7abb.css.map",
+    "main.5da784ee.js.map": "/website-by-alex/static/js/main.5da784ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bbe7abb.css",
+    "static/js/main.5da784ee.js"
+  ]
+}
